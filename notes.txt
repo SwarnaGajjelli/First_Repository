@@ -1,0 +1,17 @@
+
+
+UI ----jquery to action method to service layer --API ---service layer to repository (DB-EF)to action method 
+Employee table --CURD operations 
+
+curd operations using mvc with API
+
+         UI      APi 
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>===========================================>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Scaffold- command to generate EF Core  DB fist approch 
+
+Scaffold-DbContext {-Connection-string-in-quotations-} Microsoft.EntityFrameWorkCore.SqlServer -outputdir Repository/Models -context {-databasename-}DbContext -contextdir Repository -DataAnnotations -Force
+
+https://youtu.be/SnU4Ulee_NI
+
